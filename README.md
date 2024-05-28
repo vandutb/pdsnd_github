@@ -1,4 +1,4 @@
-# This project just for learning Data-Analysis-with-R
+## This project just for learning Data-Analysis-with-R
 
 # Overview
 
@@ -10,5 +10,3 @@ Below is a summary of the results achieved:
 ![img.png](hour.png)
 ![img.png](weekly.png)
 ![img.png](monthly.png)
-
-
