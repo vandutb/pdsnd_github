@@ -1,17 +1,12 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+## This project just for learning Data-Analysis-with-R
 
-### Date created
-Include the date you created this project and README file.
+# Overview
 
-### Project Title
-Replace the Project Title
+Analyzing bike share data from three major cities – Chicago, New York, and Washington DC. 
+Using R language and ggplot2 can provide valuable insights into usage patterns, trends, and user behaviors. 
+Below is a summary of the results achieved:
 
-### Description
-Describe what your project is about and what it does
-
-### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+![img.png](monthly.png)
+![img.png](weekly.png)
+![img.png](hour.png)
+![img.png](common_trip_from_start_to_end.png)
